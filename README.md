@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Firaol</h1>
-<h3 align="center">A passionate fullstack developer from Ethiopia</h3>
+<h1 align="bold">Hi 👋, I'm Firaol</h1>
+<h3 align="">I am a passionate software Engineering student from Ethiopia who likes to Design and Implement software systems</h3>
 
 - 🔭 I’m currently working on **Personal Project**
 
