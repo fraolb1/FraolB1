@@ -1,3 +1,4 @@
+
 <body>
     <div>
         <h1 style="font-weight: bold; text-align: center;">Hi 👋, I'm Firaol</h1>
@@ -9,9 +10,11 @@
         <p>
             <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
                 <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
+                Babel
             </a>
             <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
                 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+                Bash
             </a>
             <!-- Add more frontend tools/icons here -->
         </p>
@@ -22,9 +25,11 @@
         <p>
             <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+                C#
             </a>
             <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+                Bootstrap
             </a>
             <!-- Add more backend tools/icons here -->
         </p>
@@ -33,7 +38,9 @@
 <div>
         <h3>Currently Learning:</h3>
         <p>
-            C#, ASP.NET CORE, GO
+            <img src="https://example.com/csharp-icon.png" alt="C#" width="20" height="20"/> C#
+            <img src="https://example.com/aspnet-icon.png" alt="ASP.NET" width="20" height="20"/> ASP.NET CORE
+            <img src="https://example.com/go-icon.png" alt="Go" width="20" height="20"/> Go
         </p>
     </div>
 
@@ -51,10 +58,10 @@
         </p>
     </div>
 
-<div>
+ <div>
         <h3>Contact:</h3>
         <p>
-            Ask me about MERN<br>
+            <img src="https://example.com/email-icon.png" alt="Email" width="20" height="20"/> Ask me about MERN<br>
             How to reach me: <a href="mailto:firaolbogala98@gmail.com">firaolbogala98@gmail.com</a>
         </p>
     </div>
