@@ -11,7 +11,7 @@
         <h3 style="text-align: center;">I am a passionate software engineering student from Ethiopia who likes to design and implement software systems</h3>
     </div>
 
-    <div>
+<div>
         <h3>Languages and Tools:</h3>
         <p>
             <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
@@ -24,7 +24,7 @@
         </p>
     </div>
 
-    <div>
+<div>
         <h3>Backend Technologies:</h3>
         <p>
             <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
@@ -37,28 +37,28 @@
         </p>
     </div>
 
-    <div>
+<div>
         <h3>Currently Learning:</h3>
         <p>
             C#, ASP.NET CORE, GO
         </p>
     </div>
 
-    <div>
+<div>
         <h3>Looking to Collaborate On:</h3>
         <p>
             MERN Stack Projects
         </p>
     </div>
 
-    <div>
+<div>
         <h3>Projects:</h3>
         <p>
             All of my projects are available at <a href="https://firaol.vercel.com" target="_blank" rel="noreferrer">firaol.vercel.com</a>
         </p>
     </div>
 
-    <div>
+<div>
         <h3>Contact:</h3>
         <p>
             Ask me about MERN<br>
