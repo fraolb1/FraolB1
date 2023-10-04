@@ -24,7 +24,7 @@
 
  - Learning C# and ASP.NET
  
- - <i>with Javascript, Typescript, React and 69 others.</i>
+ - <i>with Javascript, Typescript, React and many others.</i>
    
  
  - I do fullstack and a bit of everything :heart:
